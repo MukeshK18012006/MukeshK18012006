@@ -647,7 +647,7 @@ Continuous Learning
 
 # Development Journey
 
-```text
+
 2023
 │
 ├── Started B.Tech AI & DS
@@ -681,7 +681,7 @@ Future
 
 Instead of writing projects manually, use **GitHub Repository Cards**.
 
-```markdown
+
 ## Featured Repositories
 
 <div align="center">
