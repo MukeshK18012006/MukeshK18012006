@@ -4,45 +4,57 @@
 
 ### Artificial Intelligence & Data Science Student
 
-<p>
-Building AI-powered applications, data-driven solutions, and modern web experiences.
+<p align="center">
+Building intelligent applications, data-driven solutions and modern software experiences.
 </p>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Data+Analytics+Enthusiast;Python+Developer;Machine+Learning+Explorer;Full+Stack+Learner;Always+Learning+Something+New)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Python+Developer;Machine+Learning+Explorer;Data+Analytics+Enthusiast;Full+Stack+Learner;Always+Learning+New+Technologies" />
+
+<br><br>
+
+<a href="https://github.com/MukeshK18012006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mukesh-k-956423293">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mukesh4718012006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://mukeshk18012006.github.io/Mukesh-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MukeshK18012006&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/MukeshK18012006?style=flat&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/stars/MukeshK18012006?affiliations=OWNER&style=flat&color=0e75b6"/>
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I am a **B.Tech Artificial Intelligence and Data Science** student passionate about developing intelligent applications, analyzing data, and building practical software solutions.
+<table>
 
-I enjoy learning modern technologies, contributing to projects, and continuously improving my programming and problem-solving skills.
+<tr>
 
----
+<td width="65%">
 
-## Profile
+I am a **B.Tech Artificial Intelligence & Data Science** student passionate about building practical software solutions using Artificial Intelligence, Machine Learning and Data Analytics.
 
-| | |
-|:---|:---|
-| **Name** | Mukesh K |
-| **Role** | Student |
-| **Education** | B.Tech Artificial Intelligence & Data Science |
-| **Location** | Coimbatore, Tamil Nadu, India |
-| **Current Focus** | Artificial Intelligence, Machine Learning, Data Analytics |
-| **Learning** | Cloud Computing, Backend Development, Generative AI |
-| **Career Goal** | AI Engineer • Software Engineer |
+I enjoy creating modern applications, learning new technologies, solving real-world problems and continuously improving my programming skills.
 
----
-
-<details open>
-
-<summary><b>Current Focus</b></summary>
-
-<br>
+### Current Focus
 
 - Artificial Intelligence
 - Machine Learning
@@ -50,162 +62,236 @@ I enjoy learning modern technologies, contributing to projects, and continuously
 - Python Development
 - Full Stack Development
 - Open Source
-- Cloud Computing
-- Problem Solving
 
-</details>
+</td>
+
+<td width="35%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<details open>
+# Developer Dashboard
 
-<summary><b>Technical Skills</b></summary>
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<h3>Artificial Intelligence</h3>
+
+Building intelligent systems
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>Data Analytics</h3>
+
+Turning data into insights
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>Software Development</h3>
+
+Developing scalable solutions
+
+</td>
+
+<td align="center" width="25%">
+
+<h3>Open Source</h3>
+
+Learning and contributing
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# Quick Profile
+
+| | |
+|:---|:---|
+| Name | Mukesh K |
+| Degree | B.Tech Artificial Intelligence & Data Science |
+| College | PPG Institute of Technology |
+| Location | Coimbatore, Tamil Nadu |
+| Languages | Python • Java • JavaScript |
+| Interests | AI • ML • Data Analytics • Web Development |
+| Goal | AI Engineer • Software Engineer |
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f1707d5-2b31-4e95-b1e6-1f4d2f1dfc4d.gif" width="100%">
+
+<!-- ====================================================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Programming</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp&theme=dark&perline=3"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Frontend</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark&perline=3"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Backend</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,php&theme=dark&perline=2"/>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">Database</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase&theme=dark&perline=2"/>
+
+</div>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">AI • Data Science</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark&perline=2"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <br>
 
-### Languages
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+</div>
 
-</p>
+</td>
 
-### Frameworks
+<td width="33%" valign="top">
 
-<p>
+<h3 align="center">Tools</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark&perline=3"/>
 
-### Databases
+</div>
 
-<p>
+</td>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</tr>
 
-</p>
+<tr>
 
-### Tools
+<td colspan="3">
 
-<p>
+<h3 align="center">Cloud & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark"/>
 
-</details>
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-## Development Environment
+## Technical Expertise
 
-| Category | Technologies |
-|-----------|--------------|
+<div align="center">
+
+| Domain | Technologies |
+|:--------|:-------------|
+| Artificial Intelligence | Machine Learning • Deep Learning • Computer Vision |
+| Data Analytics | SQL • Power BI • Tableau • Excel |
 | Programming | Python • Java • JavaScript |
 | Frontend | HTML • CSS • React |
-| Backend | Flask • Node.js |
-| Database | MySQL • MongoDB |
-| Version Control | Git • GitHub |
-| IDE | Visual Studio Code |
-
----
-
-## Interests
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### Software Engineering
-
-- Clean Architecture
-- Problem Solving
-- Backend Development
-- APIs
-
-</td>
-
-<td width="50%">
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-> *"Building practical software through continuous learning and consistent improvement."*
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MukeshK18012006&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-
-</td>
-
-<td width="50%">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshK18012006&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://streak-stats.demolab.com?user=MukeshK18012006&theme=github-dark-blue&hide_border=true"/>
+| Backend | Flask • Node.js • REST API |
+| Database | MySQL • MongoDB • PostgreSQL |
+| Tools | Git • GitHub • VS Code • Docker |
+| Cloud | AWS • Azure • Google Cloud |
 
 </div>
 
 ---
 
-<details open>
+## Development Workflow
 
-<summary><b>GitHub Overview</b></summary>
-
-<br>
-
-| Category | Details |
-|-----------|---------|
-| Username | **MukeshK18012006** |
-| Public Repositories | Growing Collection |
-| Main Languages | Python • Java • JavaScript |
-| Version Control | Git & GitHub |
-| Interests | AI • Data Science • Web Development |
-| Open Source | Learning & Contributing |
-
-</details>
-
----
-
-<details>
-
-<summary><b>Development Workflow</b></summary>
-
-<br>
+<div align="center">
 
 ```text
 Idea
@@ -215,6 +301,9 @@ Research
  │
  ▼
 Planning
+ │
+ ▼
+Design
  │
  ▼
 Development
@@ -229,244 +318,158 @@ Deployment
 Continuous Improvement
 ```
 
-</details>
+</div>
 
 ---
 
-<details>
+## Learning Roadmap
 
-<summary><b>Learning Roadmap</b></summary>
+<div align="center">
 
-<br>
-
-| Technology | Status |
-|------------|--------|
+| Technology | Progress |
+|------------|----------|
 | Python | ██████████ |
 | SQL | █████████░ |
-| Machine Learning | ████████░░ |
-| Artificial Intelligence | ████████░░ |
-| React | ███████░░░ |
-| Backend Development | ██████░░░░ |
-| Cloud Computing | █████░░░░░ |
-
-</details>
-
----
-
-<div align="center">
-
-### Current Focus
-
-<table>
-
-<tr>
-
-<td align="center" width="33%">
-
-#### Artificial Intelligence
-
-Building intelligent solutions using modern AI technologies.
-
-</td>
-
-<td align="center" width="33%">
-
-#### Data Analytics
-
-Transforming raw data into meaningful insights.
-
-</td>
-
-<td align="center" width="33%">
-
-#### Software Development
-
-Developing scalable and user-friendly applications.
-
-</td>
-
-</tr>
-
-</table>
+| Machine Learning | █████████░ |
+| Artificial Intelligence | █████████░ |
+| React | ████████░░ |
+| Backend | ███████░░░ |
+| Cloud | ██████░░░░ |
 
 </div>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2f1707d5-2b31-4e95-b1e6-1f4d2f1dfc4d.gif" width="100%">
 
-*"Every contribution is a step toward becoming a better developer."*
-
-</div>
-
----
-
-## Featured Projects
+<!-- ========================================================= -->
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> GitHub Dashboard
 
 <div align="center">
 
-<table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MukeshK18012006&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<tr>
-
-<td width="50%" valign="top">
-
-### SignSpeak AI
-
-AI-powered Indian Sign Language Translator that converts gestures into text and speech with multilingual support.
-
-**Highlights**
-
-- Real-time gesture recognition
-- Offline AI processing
-- Multi-language support
-- Voice output
-
-**Tech Stack**
-
-`Python` `OpenCV` `MediaPipe` `Machine Learning` `React Native`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Cyber Threat Analytics
-
-A cybersecurity analytics platform for detecting and visualizing network attacks using machine learning.
-
-**Highlights**
-
-- Threat Detection
-- Dashboard Analytics
-- SQL Reports
-- ML-based Classification
-
-**Tech Stack**
-
-`Python` `SQL` `Power BI` `Pandas` `Scikit-Learn`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Portfolio Website
-
-A responsive personal portfolio showcasing projects, certifications, and technical skills.
-
-**Highlights**
-
-- Responsive UI
-- Modern Design
-- GitHub Pages Deployment
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### House Price Prediction
-
-Machine learning project for predicting house prices using regression algorithms.
-
-**Highlights**
-
-- Data Cleaning
-- Feature Engineering
-- Model Evaluation
-- Prediction Dashboard
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Scikit-Learn`
-
-</td>
-
-</tr>
-
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshK18012006&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
-
----
-
-## Experience
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| Data Analytics Intern | Code Core Global Hitech Solutions | 6 Months |
-| Data Analytics Intern | Tamizhan Skills | 1 Month |
-| Full Stack Development Intern | Tech Volt | 30 Days |
-| Cyber Security Intern | Adhoc Softwares | 30 Days |
-
----
-
-## Certifications
-
-<details>
-
-<summary><b>View Certifications</b></summary>
 
 <br>
 
-- IBM AI Fundamentals
-- IBM Data Fundamentals
-- IBM Cybersecurity Fundamentals
-- IBM SQL & Relational Databases
-- Microsoft Generative AI
-- LinkedIn Learning – Generative AI
-- MongoDB Certification
-- Celonis Process Mining
-- Hugging Face (Simplilearn)
+<div align="center">
 
-</details>
+<img width="98%" src="https://streak-stats.demolab.com?user=MukeshK18012006&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshK18012006&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
 
 ---
 
-## Technical Strengths
+## GitHub Overview
+
+<div align="center">
+
+| Category | Information |
+|-----------|-------------|
+| Username | **MukeshK18012006** |
+| Main Language | Python |
+| Interests | Artificial Intelligence • Machine Learning • Data Analytics |
+| Current Goal | AI Engineer |
+| Open Source | Learning & Contributing |
+| Portfolio | Available |
+
+</div>
+
+---
+
+## Coding Activity
+
+<div align="center">
+
+```text
+Python           ████████████████████ 45%
+
+JavaScript       ███████████          20%
+
+SQL              █████████            18%
+
+Java             ██████               10%
+
+HTML/CSS         ████                  7%
+```
+
+</div>
+
+---
+
+## Weekly Workflow
+
+<div align="center">
+
+| Activity | Percentage |
+|-----------|-----------:|
+| Coding | ██████████████████ 55% |
+| Learning | ██████████ 20% |
+| Building Projects | ████████ 15% |
+| Open Source | ████ 5% |
+| Research | ███ 5% |
+
+</div>
+
+---
+
+## Development Status
+
+<div align="center">
+
+| Area | Status |
+|------|--------|
+| Artificial Intelligence | 🟢 Active |
+| Machine Learning | 🟢 Active |
+| Data Analytics | 🟢 Active |
+| Full Stack Development | 🟡 Learning |
+| Cloud Computing | 🟡 Learning |
+| Open Source | 🟢 Active |
+
+</div>
+
+---
+
+## Current Focus
+
+<div align="center">
 
 <table>
 
 <tr>
 
-<td width="33%">
+<td align="center" width="33%">
 
-### Artificial Intelligence
+### AI Projects
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
+Building practical AI solutions using Python and Machine Learning.
 
 </td>
 
-<td width="33%">
+<td align="center" width="33%">
 
 ### Data Analytics
 
-- Power BI
-- Tableau
-- SQL
-- Excel
-- Pandas
+Creating dashboards and extracting insights with Power BI, Tableau and SQL.
 
 </td>
 
-<td width="33%">
+<td align="center" width="33%">
 
-### Development
+### Software Development
 
-- Python
-- JavaScript
-- React
-- Flask
-- Git
+Developing responsive web applications and backend systems.
 
 </td>
 
@@ -474,48 +477,278 @@ Machine learning project for predicting house prices using regression algorithms
 
 </table>
 
----
-
-## Current Goals
-
-- Build production-ready AI applications
-- Contribute to open-source projects
-- Strengthen backend development skills
-- Learn cloud technologies
-- Improve system design knowledge
-- Secure a Software Engineer / AI Engineer role
+</div>
 
 ---
+
+## Development Philosophy
 
 <div align="center">
 
-### Project Philosophy
-
-> "Create software that solves real-world problems with simplicity, reliability, and continuous improvement."
+> **Build • Learn • Improve • Repeat**
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2563eb&height=2"/>
+
+<!-- ================================================================ -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MukeshK18012006/Cyber-Threat-Analytics-My">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Cyber-Threat-Analytics-My&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/MukeshK18012006/Mukesh-Portfolio">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Mukesh-Portfolio&theme=github_dark&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/MukeshK18012006/SignSpeak-AI">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=SignSpeak-AI&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/MukeshK18012006">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshK18012006&theme=github_dark"/>
+</a>
+
+</div>
+
 ---
 
-## Contribution Snake
+# 💼 Professional Experience
+
+<div align="center">
+
+| Position | Organization | Duration |
+|:----------|:-------------|:---------|
+| 📊 Data Analytics Intern | Code Core Global Hitech Solutions | 6 Months |
+| 📈 Data Analytics Intern | Tamizhan Skills | 1 Month |
+| 💻 Full Stack Development Intern | Tech Volt | 30 Days |
+| 🔐 Cyber Security Intern | Adhoc Softwares | 30 Days |
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### IBM
+
+Artificial Intelligence
+
+Cybersecurity
+
+SQL
+
+Data Fundamentals
+
+</td>
+
+<td align="center" width="33%">
+
+### Microsoft
+
+Generative AI
+
+LinkedIn Learning
+
+Azure AI
+
+</td>
+
+<td align="center" width="33%">
+
+### Others
+
+MongoDB
+
+Celonis
+
+Hugging Face
+
+AWS Workshops
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📅 Development Timeline
+
+```text
+
+2023
+
+Started B.Tech AI & Data Science
+
+        │
+
+        ▼
+
+2024
+
+Python
+
+SQL
+
+Web Development
+
+Git & GitHub
+
+        │
+
+        ▼
+
+2025
+
+Machine Learning
+
+Power BI
+
+Tableau
+
+Computer Vision
+
+        │
+
+        ▼
+
+2026
+
+Artificial Intelligence
+
+Cyber Security
+
+Open Source
+
+Portfolio Development
+
+        │
+
+        ▼
+
+Future
+
+AI Engineer
+
+Software Engineer
+
+```
+
+---
+
+# 🎯 Current Goals
+
+<div align="center">
+
+| Goal | Status |
+|:------|:------:|
+| Build AI Applications | 🟢 |
+| Master Machine Learning | 🟢 |
+| Learn Cloud Computing | 🟡 |
+| Open Source Contributions | 🟢 |
+| Software Engineering | 🟢 |
+
+</div>
+
+---
+
+# 📈 Areas of Interest
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="25%" align="center">
+
+### 🤖
+
+Artificial Intelligence
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+
+Data Analytics
+
+</td>
+
+<td width="25%" align="center">
+
+### 🌐
+
+Web Development
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️
+
+Cloud Computing
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ⭐ Highlights
+
+- Built AI-powered applications
+- Developed Machine Learning projects
+- Experience with Power BI & Tableau
+- Full Stack Development
+- Cyber Security Projects
+- Data Analytics Dashboards
+- Git & GitHub Workflow
+- REST API Development
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0d1117,100:2563eb"/>
+
+<!-- ================================================================ -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake-dark.svg">
 
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake.svg">
 
-<img
-alt="Contribution Snake"
-src="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/github-contribution-grid-snake-dark.svg">
 
 </picture>
 
@@ -523,7 +756,7 @@ src="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/gi
 
 ---
 
-## Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -531,246 +764,80 @@ src="https://raw.githubusercontent.com/MukeshK18012006/MukeshK18012006/output/gi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/mukesh-k-956423293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:mukesh4718012006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://mukeshk18012006.github.io/Mukesh-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<details>
+# 💡 Quote
 
-<summary><b>Profile Summary</b></summary>
+<div align="center">
+
+> **"Great software is built through consistency, curiosity, and continuous improvement."**
+
+</div>
+
+---
+
+# 📌 Profile Summary
+
+<div align="center">
+
+| Category | Details |
+|-----------|---------|
+| 👨 Name | Mukesh K |
+| 🎓 Education | B.Tech AI & Data Science |
+| 💻 Focus | Artificial Intelligence • Machine Learning • Data Analytics |
+| 🌱 Learning | Cloud • Backend • System Design |
+| 🚀 Goal | AI Engineer • Software Engineer |
+
+</div>
+
+---
+
+# 📈 GitHub Profile
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MukeshK18012006&theme=github_dark"/>
+
+</div>
+
+---
+
+# ❤️ Support
+
+<div align="center">
+
+If you like my work, consider ⭐ starring my repositories.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D1117,100:2563EB"/>
 
 <br>
 
-```text
-Name        : Mukesh K
-
-Role        : AI & Data Science Student
-
-Interested  : Artificial Intelligence
-              Machine Learning
-              Data Analytics
-              Full Stack Development
-
-Languages   : Python
-              Java
-              JavaScript
-
-Goal        : AI Engineer | Software Engineer
-```
-
-</details>
-
----
-
-<div align="center">
-
-### Thank you for visiting my profile.
-
-I'm always open to learning, collaborating, and building impactful technology.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+GitHub+profile.;Let's+build+something+amazing+together.;Happy+Coding!"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
-
-</div>
----
-
-# Developer Dashboard
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-<h2>AI</h2>
-
-Building intelligent applications
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>DATA</h2>
-
-Analytics & Visualization
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>WEB</h2>
-
-Modern Full Stack Development
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>OPEN SOURCE</h2>
-
-Continuous Learning
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# Development Journey
-
-
-2023
-│
-├── Started B.Tech AI & DS
-│
-2024
-│
-├── Python
-├── SQL
-├── Web Development
-│
-2025
-│
-├── Machine Learning
-├── Power BI
-├── Tableau
-│
-2026
-│
-├── AI Projects
-├── Cybersecurity
-├── Open Source
-│
-Future
-│
-└── AI Engineer
-
-
----
-
-# PART 6 — Repository Showcase
-
-Instead of writing projects manually, use **GitHub Repository Cards**.
-
-
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/MukeshK18012006/SignSpeak-AI">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=SignSpeak-AI&theme=github_dark&hide_border=true"/>
-
-</a>
-
-<a href="https://github.com/MukeshK18012006/Cyber-Threat-Analytics-My">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Cyber-Threat-Analytics-My&theme=github_dark&hide_border=true"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/MukeshK18012006/Mukesh-Portfolio">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Mukesh-Portfolio&theme=github_dark&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-## Philosophy
-
-> Write clean code.
-
-> Build practical software.
-
-> Learn continuously.
-
-> Share knowledge.
-
-> Solve real-world problems.
-
----
-
-## Current Focus
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Full Stack Development
-
-✔ Backend Engineering
-
-✔ Data Analytics
-
-✔ Open Source
-
----
-
-## Looking For
-
-• AI Internship
-
-• Software Engineering Internship
-
-• Open Source Collaboration
-
-• Research Projects
-
-• Freelance Opportunities
-
----
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting.;Always+building.;Always+learning.;See+you+again."/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-Made with ❤️ using GitHub Markdown
-
-</div>
-
----
