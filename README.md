@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Mukesh%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:2563EB,100:38BDF8&text=Mukesh%20K&fontColor=ffffff&fontSize=56&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;Building+Real+World+Software;Python+%7C+Data+Analytics+%7C+Full+Stack;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Building+Practical+Software;Python+%7C+Data+Analytics+%7C+Full+Stack"/>
 
 <br><br>
 
@@ -22,90 +22,55 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/MukeshK18012006?style=for-the-badge&label=Followers&color=2563EB"/>
+<img src="https://komarev.com/ghpvc/?username=MukeshK18012006&label=Visitors&style=flat-square&color=2563EB"/>
 
-<img src="https://img.shields.io/github/stars/MukeshK18012006?style=for-the-badge&label=Stars&color=1E40AF"/>
+<img src="https://img.shields.io/github/followers/MukeshK18012006?label=Followers&style=flat-square&color=2563EB"/>
 
-<img src="https://komarev.com/ghpvc/?username=MukeshK18012006&style=for-the-badge&label=Visitors&color=0F172A"/>
+<img src="https://img.shields.io/github/stars/MukeshK18012006?label=Stars&style=flat-square&color=2563EB"/>
 
 </div>
 
 ---
 
-# Mukesh K
+# About
 
-Artificial Intelligence student focused on building practical software with modern technologies.
+I am **Mukesh K**, a B.Tech student specializing in **Artificial Intelligence and Data Science**.
 
-I enjoy developing AI applications, data analytics solutions, and full-stack projects while continuously learning new technologies.
+I enjoy developing intelligent software, data analytics solutions, and modern web applications that solve practical problems.
+
+Currently expanding my knowledge in Artificial Intelligence, Machine Learning, Cloud Computing and Full Stack Development.
 
 ---
 
 ## Profile
 
-```text
-Role        Student
-
-Education   B.Tech Artificial Intelligence & Data Science
-
-Location    Coimbatore, Tamil Nadu
-
-Interests   Artificial Intelligence
-            Data Analytics
-            Software Development
-            Machine Learning
-            Full Stack Development
-
-Goal        AI Engineer
-            Software Engineer
-```
+| | |
+|------------|----------------------------|
+| Name | Mukesh K |
+| Role | Student |
+| Degree | B.Tech AI & Data Science |
+| Location | Coimbatore, India |
+| Focus | AI • Analytics • Software Development |
 
 ---
 
 ## Current Focus
 
-<table>
+- Artificial Intelligence
 
-<tr>
+- Machine Learning
 
-<td width="50%">
+- Python Development
 
-### Building
+- Full Stack Development
 
-• AI Applications
+- Data Analytics
 
-• Data Analytics Projects
-
-• Web Applications
-
-• Python Automation
-
-• Personal Portfolio
-
-</td>
-
-<td width="50%">
-
-### Learning
-
-• Machine Learning
-
-• Cloud Computing
-
-• System Design
-
-• Backend Development
-
-• DevOps Fundamentals
-
-</td>
-
-</tr>
-
-</table>
+- Open Source Learning
 
 ---
 
-# Technology Stack
+## Technology
 
 ### Languages
 
@@ -131,7 +96,7 @@ Goal        AI Engineer
 
 </p>
 
-### Developer Tools
+### Tools
 
 <p>
 
@@ -141,66 +106,73 @@ Goal        AI Engineer
 
 ---
 
-## Development Environment
+## Skill Overview
 
-| Component | Technology |
-|-----------|------------|
-| Operating System | Windows |
-| IDE | Visual Studio Code |
-| Version Control | Git & GitHub |
-| Primary Language | Python |
-| Databases | MySQL, MongoDB |
-| Interests | AI, Analytics, Full Stack |
+```text
+Python                 ██████████
 
----
+SQL                    █████████
 
-## Skills
+Machine Learning       ████████
 
-| Area | Level |
-|------|--------|
-| Python | ██████████ |
-| SQL | █████████ |
-| JavaScript | ████████ |
-| Machine Learning | ████████ |
-| Data Analytics | █████████ |
-| HTML & CSS | █████████ |
-| Git & GitHub | ████████ |
+Data Analytics         █████████
+
+JavaScript             ████████
+
+React                  ███████
+
+Git & GitHub           ████████
+```
 
 ---
 
-<div align="center">
+# Development Dashboard
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<table>
 
-</div>
+<tr>
 
-## GitHub Dashboard
+<td width="50%">
 
-<div align="center">
+### Current Status
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MukeshK18012006&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+```text
+Role        Student
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshK18012006&layout=compact&hide_border=true&theme=transparent"/>
+Learning    AI & Data Science
 
-</div>
+Projects    Active
 
-<br>
+Open Source Exploring
 
-<div align="center">
+Status      Available for Collaboration
+```
 
-<img width="97%" src="https://streak-stats.demolab.com?user=MukeshK18012006&theme=transparent&hide_border=true"/>
+</td>
 
-</div>
+<td width="50%">
 
----
+### Interests
 
-## Development Activity
+```text
+Artificial Intelligence
 
-<div align="center">
+Machine Learning
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MukeshK18012006&bg_color=0d1117&color=58A6FF&line=3FB950&point=FFFFFF&hide_border=true"/>
+Data Analytics
 
-</div>
+Software Development
+
+Full Stack Development
+
+Cloud Computing
+```
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -212,11 +184,11 @@ Goal        AI Engineer
 
 <td width="50%">
 
-### SignSpeak AI
+## SignSpeak AI
 
-Offline AI-based Indian Sign Language Translator
+Offline Indian Sign Language Translator powered by Artificial Intelligence.
 
-**Stack**
+**Technology**
 
 Python
 
@@ -230,11 +202,11 @@ React Native
 
 <td width="50%">
 
-### Cyber Threat Analytics
+## Cyber Threat Analytics
 
-Network Threat Detection Dashboard
+Threat detection and analytics platform for network security.
 
-**Stack**
+**Technology**
 
 Python
 
@@ -252,11 +224,11 @@ Machine Learning
 
 <td width="50%">
 
-### Portfolio Website
+## Portfolio Website
 
-Modern Responsive Portfolio
+Responsive developer portfolio showcasing projects, skills and achievements.
 
-**Stack**
+**Technology**
 
 HTML
 
@@ -270,11 +242,11 @@ GitHub Pages
 
 <td width="50%">
 
-### House Price Prediction
+## House Price Prediction
 
-Regression based Prediction System
+Machine Learning model for predicting house prices using regression.
 
-**Stack**
+**Technology**
 
 Python
 
@@ -292,6 +264,17 @@ Matplotlib
 
 ---
 
+# Internship Experience
+
+| Organization | Domain | Duration |
+|--------------|--------|----------|
+| Code Core Global Hitech Solutions | Data Analytics | 6 Months |
+| Tamizhan Skills | Data Analytics | 1 Month |
+| Tech Volt Software | Full Stack Development | 30 Days |
+| Adhoc Softwares | Cyber Security | 30 Days |
+
+---
+
 # Certifications
 
 ```text
@@ -305,34 +288,39 @@ IBM SQL & Relational Databases
 
 Microsoft Generative AI
 
-LinkedIn Learning Generative AI
+LinkedIn Learning - Generative AI
 
 MongoDB
 
 Celonis Process Mining
 
 AWS Workshop
+
+Simplilearn Hugging Face
 ```
 
 ---
 
-# Learning Journey
+# Learning Roadmap
 
-| Domain | Status |
-|:----------------------|:-----------:|
+| Technology | Progress |
+|------------|----------|
 | Artificial Intelligence | ██████████ |
 | Machine Learning | █████████ |
 | Python | ██████████ |
 | SQL | █████████ |
 | Data Analytics | █████████ |
-| Full Stack Development | ████████ |
+| JavaScript | ████████ |
+| React | ███████ |
 | Cloud Computing | ██████ |
 
 ---
 
-# Currently Working On
+# What I'm Working On
 
-- AI Applications
+- AI Powered Applications
+
+- Machine Learning Projects
 
 - Data Analytics Dashboards
 
@@ -340,161 +328,45 @@ AWS Workshop
 
 - Full Stack Development
 
-- Open Source Projects
-
-- GitHub Portfolio
+- GitHub Portfolio Improvements
 
 ---
 
-# Philosophy
+# Development Principles
 
 ```text
-Build useful software.
+Build practical software.
 
-Keep learning.
+Write clean and maintainable code.
 
-Write maintainable code.
+Learn continuously.
 
-Improve every project.
+Focus on solving real-world problems.
 
-Stay consistent.
+Keep improving every day.
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
 
----
-
-# Experience
-
-| Organization | Role | Duration |
-|--------------|------|----------|
-| Code Core Global Hitech Solutions | Data Analytics Intern | 6 Months |
-| Tamizhan Skills | Data Analytics Intern | 1 Month |
-| Tech Volt Software | Full Stack Development Intern | 30 Days |
-| Adhoc Softwares | Cyber Security Intern | 30 Days |
 
 ---
 
-# Development Toolkit
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,flask,mysql,mongodb,git,github,vscode,postman,figma"/>
-
-</p>
-
----
-
-# Open To
-
-- Artificial Intelligence Projects
-- Machine Learning Projects
-- Data Analytics
-- Software Development
-- Full Stack Development
-- Internship Opportunities
-- Open Source Collaboration
-
----
-
-# Repository Highlights
-
-<table>
-
-<tr>
-
-<td>
-
-SignSpeak AI
-
-Offline Indian Sign Language Translation using AI.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Cyber Threat Analytics
-
-Network Intrusion Detection Dashboard with Machine Learning.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Portfolio Website
-
-Modern responsive portfolio hosted on GitHub Pages.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Machine Learning Projects
-
-Regression, Classification and Data Analysis.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 2026 Goals
-
-- Build more production-ready applications
-
-- Contribute to Open Source
-
-- Learn Cloud Technologies
-
-- Improve Data Structures & Algorithms
-
-- Master Full Stack Development
-
-- Strengthen Machine Learning skills
-
----
-
-# Quote
-
-> Software is built one commit at a time.
-
----
+# Repository Showcase
 
 <div align="center">
 
-### Connect
-
-<a href="mailto:mukesh4718012006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/MukeshK18012006/SignSpeak-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=SignSpeak-AI&theme=transparent&hide_border=true"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mukesh-k-956423293">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://mukeshk18012006.github.io/Mukesh-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"/>
+<a href="https://github.com/MukeshK18012006/Cyber-Threat-Analytics-My">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Cyber-Threat-Analytics-My&theme=transparent&hide_border=true"/>
 </a>
 
 </div>
@@ -503,6 +375,111 @@ Regression, Classification and Data Analysis.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient"/>
+<a href="https://github.com/MukeshK18012006">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=Mukesh-Portfolio&theme=transparent&hide_border=true"/>
+</a>
+
+<a href="https://github.com/MukeshK18012006">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MukeshK18012006&repo=MK-DA&theme=transparent&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# Current Goals
+
+- Build production-ready AI applications
+- Strengthen Data Structures & Algorithms
+- Learn Cloud Computing (AWS)
+- Contribute to Open Source
+- Develop scalable Full Stack applications
+- Explore Generative AI and LLMs
+
+---
+
+# Areas of Interest
+
+| Domain | Focus |
+|---------|-------|
+| Artificial Intelligence | Intelligent Applications |
+| Machine Learning | Predictive Models |
+| Data Analytics | Dashboards & Insights |
+| Software Engineering | Clean Architecture |
+| Web Development | Responsive Applications |
+| Cyber Security | Threat Analytics |
+
+---
+
+# 2026 Roadmap
+
+```text
+✔ Improve Problem Solving
+
+✔ Build More AI Projects
+
+✔ Open Source Contributions
+
+✔ Internship Experience
+
+✔ Cloud Computing
+
+✔ Production Level Projects
+```
+
+---
+
+# GitHub Activity
+
+```text
+Daily Learning
+
+██████████████████████████
+
+Project Development
+
+██████████████████████
+
+Problem Solving
+
+██████████████████
+
+Open Source
+
+█████████████
+```
+
+---
+
+# Developer Mindset
+
+> Learn continuously.
+>
+> Build with purpose.
+>
+> Keep improving.
+>
+> Deliver quality over quantity.
+
+---
+
+# Profile Summary
+
+| | |
+|--------------------|-----------------------------|
+| Name | Mukesh K |
+| Education | B.Tech AI & Data Science |
+| Current Role | Student |
+| Interests | AI • ML • Analytics |
+| Location | Coimbatore, India |
+| Status | Open to Learning & Collaboration |
+
+---
+
+<div align="center">
+
+### Thank you for visiting my profile.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:2563EB,100:38BDF8"/>
 
 </div>
